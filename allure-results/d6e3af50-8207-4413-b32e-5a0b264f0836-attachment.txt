@@ -1,0 +1,8 @@
+Exceptiion Occured In ClickMyAccount Link Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('span:has-Text(\'My Account\')')
+    - locator resolved to <span class="hidden-xs hidden-sm hidden-md">My Account</span>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+Exceptiion Occured In Register Link Error: locator.click: Target page, context or browser has been closed

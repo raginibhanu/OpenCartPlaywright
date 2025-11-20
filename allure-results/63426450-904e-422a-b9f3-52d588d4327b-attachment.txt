@@ -1,0 +1,12 @@
+********UserSucessfullyRegistered*********
+********UserSucessfullyLogout*********
+********UserSucessfullyLogIn*********
+Exceptiion Occured In SearchInputBox Error: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('input[placeholder=\'Search\']')
+    - locator resolved to <input value="" type="text" name="search" placeholder="Search" class="form-control input-lg"/>
+    - fill("MacBook")
+  - attempting fill action
+    - waiting for element to be visible, enabled and editable
+
+Exceptiion Occured In SearchButton Error: locator.click: Target page, context or browser has been closed

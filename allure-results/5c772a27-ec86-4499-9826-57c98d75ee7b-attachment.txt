@@ -1,0 +1,5 @@
+********UserSucessfullyRegistered*********
+********UserSucessfullyLogout*********
+********UserSucessfullyLogIn*********
+********ProductSucessfullyAddToCart*********
+********ShoppingCartPagePricesAreEqual*********

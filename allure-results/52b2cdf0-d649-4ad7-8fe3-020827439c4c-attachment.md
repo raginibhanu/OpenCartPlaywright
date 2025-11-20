@@ -1,0 +1,193 @@
+# Page snapshot
+
+```yaml
+- navigation:
+  - button "$ Currency ":
+    - strong: $
+    - text: Currency 
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/contact
+      - text: "123456789"
+    - listitem:
+      - link " My Account":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/account
+    - listitem:
+      - link " Wish List (0)":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/wishlist
+    - listitem:
+      - link " Shopping Cart":
+        - /url: https://tutorialsninja.com/demo/index.php?route=checkout/cart
+    - listitem:
+      - link " Checkout":
+        - /url: https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+- banner:
+  - heading "Qafox.com" [level=1]:
+    - link "Qafox.com":
+      - /url: https://tutorialsninja.com/demo/index.php?route=common/home
+  - textbox "Search": MacBook
+  - button ""
+  - button " 2 item(s) - $1,204.00"
+- navigation:
+  - list:
+    - listitem:
+      - link "Desktops":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+    - listitem:
+      - link "Laptops & Notebooks":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+    - listitem:
+      - link "Components":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+    - listitem:
+      - link "Tablets":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+    - listitem:
+      - link "Software":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+    - listitem:
+      - link "Phones & PDAs":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+    - listitem:
+      - link "Cameras":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+    - listitem:
+      - link "MP3 Players":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+- list:
+  - listitem:
+    - link "":
+      - /url: https://tutorialsninja.com/demo/index.php?route=common/home
+  - listitem:
+    - link "Search":
+      - /url: https://tutorialsninja.com/demo/index.php?route=product/search&search=MacBook
+  - listitem:
+    - link "MacBook":
+      - /url: https://tutorialsninja.com/demo/index.php?route=product/product&search=MacBook&product_id=43
+- list:
+  - listitem:
+    - link "MacBook":
+      - /url: https://tutorialsninja.com/demo/image/cache/catalog/demo/macbook_1-500x500.jpg
+      - img "MacBook"
+  - listitem:
+    - link "MacBook":
+      - /url: https://tutorialsninja.com/demo/image/cache/catalog/demo/macbook_5-500x500.jpg
+      - img "MacBook"
+  - listitem:
+    - link "MacBook":
+      - /url: https://tutorialsninja.com/demo/image/cache/catalog/demo/macbook_4-500x500.jpg
+      - img "MacBook"
+  - listitem:
+    - link "MacBook":
+      - /url: https://tutorialsninja.com/demo/image/cache/catalog/demo/macbook_2-500x500.jpg
+      - img "MacBook"
+  - listitem:
+    - link "MacBook":
+      - /url: https://tutorialsninja.com/demo/image/cache/catalog/demo/macbook_3-500x500.jpg
+      - img "MacBook"
+- list:
+  - listitem:
+    - link "Description":
+      - /url: "#tab-description"
+  - listitem:
+    - link "Specification":
+      - /url: "#tab-specification"
+  - listitem:
+    - link "Reviews (0)":
+      - /url: "#tab-review"
+- paragraph: Intel Core 2 Duo processor
+- paragraph: Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+- paragraph: 1GB memory, larger hard drives
+- paragraph: The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+- paragraph: Sleek, 1.08-inch-thin design
+- paragraph: MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+- paragraph: Built-in iSight camera
+- paragraph: Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+- button ""
+- button ""
+- heading "MacBook" [level=1]
+- list:
+  - listitem:
+    - text: "Brand:"
+    - link "Apple":
+      - /url: https://tutorialsninja.com/demo/index.php?route=product/manufacturer/info&manufacturer_id=8
+  - listitem: Product Code:Product 16
+  - listitem: Reward Points:600
+  - listitem: Availability:Out Of Stock
+- list:
+  - listitem:
+    - heading "$602.00" [level=2]
+  - listitem: Ex Tax:$500.00
+- text: Qty
+- textbox "Qty": "2"
+- button "Add to Cart"
+- paragraph:
+  - text:     
+  - link "0 reviews":
+    - /url: ""
+  - text: /
+  - link "Write a review":
+    - /url: ""
+- separator
+- contentinfo:
+  - heading "Information" [level=5]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+    - listitem:
+      - link "Delivery Information":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+  - heading "Customer Service" [level=5]
+  - list:
+    - listitem:
+      - link "Contact Us":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/contact
+    - listitem:
+      - link "Returns":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/return/add
+    - listitem:
+      - link "Site Map":
+        - /url: https://tutorialsninja.com/demo/index.php?route=information/sitemap
+  - heading "Extras" [level=5]
+  - list:
+    - listitem:
+      - link "Brands":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+    - listitem:
+      - link "Gift Certificates":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/voucher
+    - listitem:
+      - link "Affiliate":
+        - /url: https://tutorialsninja.com/demo/index.php?route=affiliate/login
+    - listitem:
+      - link "Specials":
+        - /url: https://tutorialsninja.com/demo/index.php?route=product/special
+  - heading "My Account" [level=5]
+  - list:
+    - listitem:
+      - link "My Account":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/account
+    - listitem:
+      - link "Order History":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/order
+    - listitem:
+      - link "Wish List":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/wishlist
+    - listitem:
+      - link "Newsletter":
+        - /url: https://tutorialsninja.com/demo/index.php?route=account/newsletter
+  - separator
+  - paragraph:
+    - text: Powered By
+    - link "OpenCart":
+      - /url: http://www.opencart.com
+    - text: Qafox.com © 2025
+```

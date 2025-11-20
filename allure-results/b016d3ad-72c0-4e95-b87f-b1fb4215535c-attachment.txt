@@ -1,0 +1,4 @@
+Exceptiion Occured In Register Link Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('.dropdown-menu.dropdown-menu-right li:has-text(\'Register\')')
+
