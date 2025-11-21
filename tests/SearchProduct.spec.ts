@@ -12,7 +12,7 @@ import {TestConfig} from "../test.config.ts/Config";
 
 
 
-test("Search The Products @master @regression",async({page})=>{
+test("Search The Products @master @regression @sanity",async({page})=>{
 
 
       config=new TestConfig();

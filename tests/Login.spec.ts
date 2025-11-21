@@ -38,7 +38,7 @@ test.afterEach(async()=>{
 })
 
 
-test("Verify Login @master @sanity @regression",async()=>{
+test("Verify Login @master @regression",async()=>{
 
 
 

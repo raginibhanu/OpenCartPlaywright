@@ -36,7 +36,7 @@ let config:TestConfig;
   })
 
 
-  test("User RegisterAccount @master @sanity @ regression",async()=>{
+  test("User RegisterAccount @master @regression",async()=>{
 
 
        await   hp.myAccountLinkClick();
